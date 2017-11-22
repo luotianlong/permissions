@@ -1,0 +1,2 @@
+# permissions
+vue spa webpack
